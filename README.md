@@ -33,7 +33,7 @@ Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
 - `churn_analysis.py` — standalone script version
 - `generate_data.py` — synthetic dataset generator (realistic telecom churn patterns)
 - `telecom_churn.csv` — dataset used
-- `*.png` — EDA and evaluation visuals
+
 
 ## What I'd add with more time
 - Hyperparameter tuning (GridSearchCV)
